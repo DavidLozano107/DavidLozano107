@@ -1,6 +1,6 @@
 ![David Lozano Banner](https://user-images.githubusercontent.com/53720016/99179392-55961000-26eb-11eb-8ce4-55094f89d761.png)
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" &nbsp;Hey there! I'm David Lozano
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> &nbsp;Hey there! I'm David Lozano
 
 ### 👨‍💻 &nbsp;About Me
 
