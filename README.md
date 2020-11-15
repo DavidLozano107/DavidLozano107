@@ -26,9 +26,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/DavidLozano107">![David's github stats](https://github-readme-stats.vercel.app/api?username=DavidLozano107&hide=contribs,prs)
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DavidLozano107&layout=compact&langs_count=8&theme=react"/>
-</a>
+  ![DavidLozano107's github stats](https://github-readme-stats.vercel.app/api?username=DavidLozano107&show_icons=true&theme=radical)
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
