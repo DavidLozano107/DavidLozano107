@@ -25,10 +25,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
   [![DavidLozano107's github stats](https://github-readme-stats.vercel.app/api?username=DavidLozano107)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
