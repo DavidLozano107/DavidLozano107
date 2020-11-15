@@ -30,7 +30,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/davidlozano-dev/"><img src="https://img.shields.io/badge/-David%20Alexander%20Lozano-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/davidlozano-dev/"><img src="https://img.shields.io/badge/-David%20Alexander%20Lozano%20Hernandez-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 
