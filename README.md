@@ -5,7 +5,7 @@
 ### 👨‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-⏱ &nbsp;In my free time I like to do sports and program.\
+⏱ &nbsp;In my free time I like to do sports and code.\
 ✉️ &nbsp;You can shoot me an email at davidlozano.dev@gmail.com! I'll try to respond as soon as I can.\
 👁 &nbsp;Please have a look at my [Web site](http://davidlozano-dev.software/) for more details about me. I'm open to feedback and suggestions!
 
