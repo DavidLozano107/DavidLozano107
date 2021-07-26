@@ -1,4 +1,4 @@
-![David Lozano Banner](https://user-images.githubusercontent.com/53720016/99185070-6c515c80-2715-11eb-8362-29b4bbb206ce.png)
+<!-- ![David Lozano Banner](https://user-images.githubusercontent.com/53720016/99185070-6c515c80-2715-11eb-8362-29b4bbb206ce.png) -->
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> &nbsp;Hey there! I'm David Lozano
 
